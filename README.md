@@ -1,5 +1,20 @@
-# FCC Test Suite Template
+# Freecodecamp Project in Microverse
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+> This is a freecodecamp project done using the peer to peer coding with richard in microverse.
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+## Built With
+
+- HTML
+- CSS
+
+## Author
+
+-  [My Website](https://www.ismailcourr.ml)
+-  [Twitter](https://www.twitter.com/ismailcourr)
+-  [Github](https://github.com/Ismailco)
+-  [Linkedin](https://www.linkedin.com/in/ismailcourr/)
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
